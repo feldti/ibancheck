@@ -24,7 +24,7 @@ Damit die Informationen der entsprchenden Bank zurückgegeben werden, sollte man
 
 ## Hilfe
 
-Das ist ein Quick-and-Dirty Projekt. Das alles ist mit Hilfe von ChatGPT entwickelt worden. Diente zum Testen der Programmierung von ChatGPT. Ursprünglich wollte ich eine Lösung für eine bash haben, aber mit dem Einsatzvon swk und grep kommt auch chatgpt manchmal gut durcheinander.
+Das ist ein Quick-and-Dirty Projekt. Das alles ist mit Hilfe von ChatGPT entwickelt worden. Diente zum Testen der Programmierung von ChatGPT. Ursprünglich wollte ich eine Lösung für eine bash haben, aber mit dem Einsatz von swk und grep kommt auch chatgpt manchmal gut durcheinander. C# funktioniert viel besser.
 
 ## PostgreSQL
 
