@@ -2,7 +2,7 @@
 
 ## Commandline
 
-Dieses Programm testet den Aufbau einer IBAN und gibt einen Status zurück, ib die IBAN einen gültign Uafbau besitzt bzw, welches Kreditinstitut dazu gehört.
+Dieses Programm testet den Aufbau einer IBAN und gibt einen Status zurück, ob die IBAN einen gültigen Aufbau besitzt bzw, welches Kreditinstitut dazu gehört.
 
 Der Aufruf erfolgt via 
 
